@@ -48,6 +48,7 @@ PRODUCT_PACKAGES += \
     libsfplugin_ccodec_utils.vendor \
     libtinycompress \
     libtrusty_metrics \
+    libwifi-hal \
     nos_app_avb:64 \
     nos_app_identity:64 \
     nos_app_keymaster:64 \
