@@ -59,6 +59,9 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.telephony.ims.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.telephony.ims.xml \
     frameworks/native/data/etc/android.hardware.telephony.ims.singlereg.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.telephony.ims.singlereg.xml
 
+# Properties
+TARGET_VENDOR_PROP := device/google/raviole/vendor.prop
+
 # SystemUI
 PRODUCT_PACKAGES += \
     Pixel6SystemUI
