@@ -16,6 +16,24 @@
       "message": "dup",
       "revId": "356d52b05cb67d562dc485ff7d5936d209b2cf7b",
       "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c2c15b40_ad036883",
+        "filename": "vendor.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2021-12-04T19:13:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d65533eb_8536e66e",
+      "revId": "356d52b05cb67d562dc485ff7d5936d209b2cf7b",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
     }
   ]
 }
