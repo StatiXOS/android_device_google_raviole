@@ -61,5 +61,10 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.telephony.ims.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.telephony.ims.xml \
     frameworks/native/data/etc/android.hardware.telephony.ims.singlereg.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.telephony.ims.singlereg.xml
 
+# Telephony
+PRODUCT_PACKAGES += \
+    ImsServiceEntitlement \
+    Iwlan
+
 # Properties
 TARGET_VENDOR_PROP := device/google/raviole/vendor.prop
