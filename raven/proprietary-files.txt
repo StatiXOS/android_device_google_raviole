@@ -1137,6 +1137,7 @@ system_ext/etc/permissions/privapp-permissions-qorvo.xml
 -system_ext/priv-app/UwbService/UwbService.apk;PRESIGNED
 vendor/bin/hw/hardware.qorvo.uwb-service
 vendor/bin/init.uwb.calib.sh
+vendor/etc/calib_paths
 vendor/etc/init/uwb-default.rc
 vendor/etc/UWB-calibration-am.conf
 vendor/etc/UWB-calibration-ar.conf
