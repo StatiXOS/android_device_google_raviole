@@ -7,7 +7,7 @@ $(call inherit-product, vendor/statix/config/common.mk)
 $(call inherit-product, vendor/statix/config/gsm.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/google/raviole/aosp_oriole.mk)
+$(call inherit-product, device/google/raviole/aosp_oriole_64.mk)
 $(call inherit-product, device/google/raviole/device-statix.mk)
 
 ## Device identifier. This must come after all inclusions
