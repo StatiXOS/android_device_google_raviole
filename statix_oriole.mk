@@ -17,8 +17,8 @@ PRODUCT_BRAND := google
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=oriole \
-    PRIVATE_BUILD_DESC="oriole-user 12 SQ1D.220205.003 8069835 release-keys"
+    PRIVATE_BUILD_DESC="oriole-user 12 SQ1D.220205.004 8151327 release-keys"
 
-BUILD_FINGERPRINT := google/oriole/oriole:12/SQ1D.220205.003/8069835:user/release-keys
+BUILD_FINGERPRINT := google/oriole/oriole:12/SQ1D.220205.004/8151327:user/release-keys
 
 $(call inherit-product, vendor/google/oriole/oriole-vendor.mk)
