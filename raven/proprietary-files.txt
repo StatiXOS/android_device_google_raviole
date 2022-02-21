@@ -4,7 +4,7 @@
 product/etc/ambient/matcher_tah.leveldb
 
 # AoC
-vendor/bin/aocd
+-vendor/bin/aocd
 vendor/etc/aoc/BLUETOOTH.dat
 vendor/etc/aoc/HANDSET.dat
 vendor/etc/aoc/HANDSFREE.dat
@@ -13,54 +13,54 @@ vendor/etc/aoc/recording.gatf
 vendor/etc/init/aocd.rc
 vendor/etc/init/hw/init.aoc.rc
 vendor/firmware/aoc.bin
-vendor/lib/aoc_aud_ext.so
-vendor/lib/audio_bluenote_aoc.so
-vendor/lib/audio_bt_aoc.so
-vendor/lib/audio_fortemedia_aoc.so
-vendor/lib/audio_spk_35l41.so
-vendor/lib/audio_tunnel_aoc.so
-vendor/lib/audio_usb_aoc.so
-vendor/lib/audio_waves_aoc.so
-vendor/lib/hw/audio.platform.aoc.so
-vendor/lib/libAlgFx_HiFi3z.so
-vendor/lib/libaoc.so
-vendor/lib/libaoc_waves.so
-vendor/lib/libaoctuningdecoder.so
-vendor/lib/libfvsam_prm_parser.so
-vendor/lib64/aoc_aud_ext.so
-vendor/lib64/audio_bluenote_aoc.so
-vendor/lib64/audio_bt_aoc.so
-vendor/lib64/audio_fortemedia_aoc.so
-vendor/lib64/audio_spk_35l41.so
-vendor/lib64/audio_tunnel_aoc.so
-vendor/lib64/audio_usb_aoc.so
-vendor/lib64/audio_waves_aoc.so
-vendor/lib64/hw/audio.platform.aoc.so
-vendor/lib64/libAlgFx_HiFi3z.so
-vendor/lib64/libaoc.so
-vendor/lib64/libaoc_waves.so
-vendor/lib64/libaoctuningdecoder.so
-vendor/lib64/libfvsam_prm_parser.so
+-vendor/lib/aoc_aud_ext.so
+-vendor/lib/audio_bluenote_aoc.so
+-vendor/lib/audio_bt_aoc.so
+-vendor/lib/audio_fortemedia_aoc.so
+-vendor/lib/audio_spk_35l41.so
+-vendor/lib/audio_tunnel_aoc.so
+-vendor/lib/audio_usb_aoc.so
+-vendor/lib/audio_waves_aoc.so
+-vendor/lib/hw/audio.platform.aoc.so
+-vendor/lib/libAlgFx_HiFi3z.so
+-vendor/lib/libaoc.so
+-vendor/lib/libaoc_waves.so
+-vendor/lib/libaoctuningdecoder.so
+-vendor/lib/libfvsam_prm_parser.so
+-vendor/lib64/aoc_aud_ext.so
+-vendor/lib64/audio_bluenote_aoc.so
+-vendor/lib64/audio_bt_aoc.so
+-vendor/lib64/audio_fortemedia_aoc.so
+-vendor/lib64/audio_spk_35l41.so
+-vendor/lib64/audio_tunnel_aoc.so
+-vendor/lib64/audio_usb_aoc.so
+-vendor/lib64/audio_waves_aoc.so
+-vendor/lib64/hw/audio.platform.aoc.so
+-vendor/lib64/libAlgFx_HiFi3z.so
+-vendor/lib64/libaoc.so
+-vendor/lib64/libaoc_waves.so
+-vendor/lib64/libaoctuningdecoder.so
+-vendor/lib64/libfvsam_prm_parser.so
 
 # Audio
-vendor/lib/audio_amcs_ext.so
-vendor/lib/hw/audio.primary.gs101.so
-vendor/lib/hw/sound_trigger.primary.gs101.so
-vendor/lib/libamcsextfile.so
-vendor/lib/libmahalcontroller.so
-vendor/lib64/audio_amcs_ext.so
-vendor/lib64/hw/audio.primary.gs101.so
-vendor/lib64/hw/sound_trigger.primary.gs101.so
-vendor/lib64/libamcsextfile.so
-vendor/lib64/libmahalcontroller.so
+-vendor/lib/audio_amcs_ext.so
+-vendor/lib/hw/audio.primary.gs101.so
+-vendor/lib/hw/sound_trigger.primary.gs101.so
+-vendor/lib/libamcsextfile.so
+-vendor/lib/libmahalcontroller.so
+-vendor/lib64/audio_amcs_ext.so
+-vendor/lib64/hw/audio.primary.gs101.so
+-vendor/lib64/hw/sound_trigger.primary.gs101.so
+-vendor/lib64/libamcsextfile.so
+-vendor/lib64/libmahalcontroller.so
 
 # Bluetooth
-vendor/bin/hw/android.hardware.bluetooth@1.1-service.bcmbtlinux
+-vendor/bin/hw/android.hardware.bluetooth@1.1-service.bcmbtlinux
 vendor/etc/bluetooth/bt_vendor.conf
 vendor/etc/init/android.hardware.bluetooth@1.1-service.bcmbtlinux.rc
 
 # CHRE
-vendor/bin/chre
+-vendor/bin/chre
 vendor/etc/chre/activity.napp_header
 vendor/etc/chre/activity.so
 vendor/etc/chre/ambient_micro.napp_header
@@ -104,22 +104,22 @@ system_ext/etc/permissions/org.carconnectivity.android.digitalkey.timesync.xml
 # Display
 vendor/etc/atc_profile.json
 vendor/etc/displayconfig/display_id_4619827677550801152.xml
-vendor/lib/egl/libGLES_mali.so
-vendor/lib/hw/vulkan.gs101.so
-vendor/lib/libdisplaycolor.so
-vendor/lib/libgpudataproducer.so
-vendor/lib64/egl/libGLES_mali.so
-vendor/lib64/hw/vulkan.gs101.so
-vendor/lib64/libdisplaycolor.so
-vendor/lib64/libgpudataproducer.so
+-vendor/lib/egl/libGLES_mali.so
+-vendor/lib/hw/vulkan.gs101.so
+-vendor/lib/libdisplaycolor.so
+-vendor/lib/libgpudataproducer.so
+-vendor/lib64/egl/libGLES_mali.so
+-vendor/lib64/hw/vulkan.gs101.so
+-vendor/lib64/libdisplaycolor.so
+-vendor/lib64/libgpudataproducer.so
 # Also used for TfLite
-vendor/lib/libOpenCL-pixel.so
+-vendor/lib/libOpenCL-pixel.so
 -vendor/lib/libOpenCL.so
-vendor/lib64/libOpenCL-pixel.so
+-vendor/lib64/libOpenCL-pixel.so
 -vendor/lib64/libOpenCL.so
 
 # DMD
-vendor/bin/dmd
+-vendor/bin/dmd
 vendor/etc/init/dmd.rc
 vendor/etc/modem/default.cfg
 vendor/etc/modem/default_metrics.xml
@@ -133,41 +133,41 @@ vendor/etc/modem_stat.conf
 vendor/etc/modem/teamfood_default.cfg
 vendor/etc/modem/teamfood_default_metrics.xml
 vendor/etc/modem/teamfood_default.nprf
-vendor/lib/liboemservice.so
-vendor/lib64/liboemservice.so
+-vendor/lib/liboemservice.so
+-vendor/lib64/liboemservice.so
 
 # DRM - Widevine
-vendor/bin/hw/android.hardware.drm@1.4-service.widevine
+-vendor/bin/hw/android.hardware.drm@1.4-service.widevine
 vendor/etc/init/android.hardware.drm@1.4-service.widevine.rc
 -vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.4-service.widevine.xml
-vendor/lib64/liboemcrypto.so
-vendor/lib64/libwvhidl.so
+-vendor/lib64/liboemcrypto.so
+-vendor/lib64/libwvhidl.so
 
 # Google AudioMetric Extensions
-vendor/bin/hw/vendor.google.audiometricext@1.0-service-vendor
+-vendor/bin/hw/vendor.google.audiometricext@1.0-service-vendor
 vendor/etc/init/vendor.google.audiometricext@1.0-service-vendor.rc
-vendor/lib64/vendor.google.audiometricext@1.0.so
+-vendor/lib64/vendor.google.audiometricext@1.0.so
 
 # Google WhiteChapel Audio Extensions
-vendor/lib/hw/vendor.google.whitechapel.audio.audioext@2.0-impl.so
-vendor/lib/vendor.google.whitechapel.audio.audioext@2.0.so
-vendor/lib64/hw/vendor.google.whitechapel.audio.audioext@2.0-impl.so
-vendor/lib64/vendor.google.whitechapel.audio.audioext@2.0.so
+-vendor/lib/hw/vendor.google.whitechapel.audio.audioext@2.0-impl.so
+-vendor/lib/vendor.google.whitechapel.audio.audioext@2.0.so
+-vendor/lib64/hw/vendor.google.whitechapel.audio.audioext@2.0-impl.so
+-vendor/lib64/vendor.google.whitechapel.audio.audioext@2.0.so
 
 # Google Battery
-vendor/bin/hw/vendor.google.google_battery@1.1-service-vendor
+-vendor/bin/hw/vendor.google.google_battery@1.1-service-vendor
 vendor/etc/init/vendor.google.google_battery@1.1-service.rc
 
 # Google Biometrics
-vendor/bin/hw/android.hardware.biometrics.fingerprint-service.goodix
+-vendor/bin/hw/android.hardware.biometrics.fingerprint-service.goodix
 vendor/etc/init/fingerprint-goodix.rc
 -vendor/etc/vintf/manifest/fingerprint-goodix.xml
 vendor/firmware/g6.app
-vendor/lib64/biometricsuez.so
-vendor/lib64/fp_utils.so
-vendor/lib64/libgf_hal.so
-vendor/lib64/libvendor.goodix.hardware.biometrics.fingerprint.so
-vendor/lib64/libvendor.goodix.hardware.biometrics.fingerprint@2.1.so
+-vendor/lib64/biometricsuez.so
+-vendor/lib64/fp_utils.so
+-vendor/lib64/libgf_hal.so
+-vendor/lib64/libvendor.goodix.hardware.biometrics.fingerprint.so
+-vendor/lib64/libvendor.goodix.hardware.biometrics.fingerprint@2.1.so
 
 # Google Carrier Settings Configurations
 product/etc/CarrierSettings/a1_at.pb
@@ -909,11 +909,11 @@ vendor/firmware/carrierconfig/manifests/ff53818c72f4401a47778d63b0c6506610d7ff9a
 vendor/firmware/carrierconfig/release-label
 
 # Google Citadel Services
-vendor/bin/hw/android.hardware.identity@1.0-service.citadel
-vendor/bin/hw/android.hardware.security.keymint-service.citadel
-vendor/bin/hw/android.hardware.weaver@1.0-service.citadel
-vendor/bin/hw/citadel_updater
-vendor/bin/hw/citadeld
+-vendor/bin/hw/android.hardware.identity@1.0-service.citadel
+-vendor/bin/hw/android.hardware.security.keymint-service.citadel
+-vendor/bin/hw/android.hardware.weaver@1.0-service.citadel
+-vendor/bin/hw/citadel_updater
+-vendor/bin/hw/citadeld
 vendor/bin/hw/init_citadel
 vendor/etc/init/android.hardware.identity@1.0-service.citadel.rc
 vendor/etc/init/android.hardware.security.keymint-service.citadel.rc
@@ -929,24 +929,24 @@ vendor/firmware/dauntless/mini-proto.ec.bin
 vendor/firmware/dauntless/proto10.ec.bin
 vendor/firmware/dauntless/proto11.ec.bin
 vendor/firmware/dauntless/slider.ec.bin
-vendor/lib64/android.hardware.authsecret@1.0-impl.nos.so
-vendor/lib64/android.hardware.confirmationui.secure_input_citadel.so
-vendor/lib64/android.hardware.identity@1.0-impl.nos.so
-vendor/lib64/android.hardware.keymaster@4.1-impl.nos.so
-vendor/lib64/android.hardware.oemlock@1.0-impl.nos.so
-vendor/lib64/android.hardware.security.keymint-impl.nos.so
-vendor/lib64/android.hardware.weaver@1.0-impl.nos.so
-vendor/lib64/libnos_citadeld_proxy.so
+-vendor/lib64/android.hardware.authsecret@1.0-impl.nos.so
+-vendor/lib64/android.hardware.confirmationui.secure_input_citadel.so
+-vendor/lib64/android.hardware.identity@1.0-impl.nos.so
+-vendor/lib64/android.hardware.keymaster@4.1-impl.nos.so
+-vendor/lib64/android.hardware.oemlock@1.0-impl.nos.so
+-vendor/lib64/android.hardware.security.keymint-impl.nos.so
+-vendor/lib64/android.hardware.weaver@1.0-impl.nos.so
+-vendor/lib64/libnos_citadeld_proxy.so
 
 # Google EdgeTPU
-system_ext/bin/hw/vendor.google.edgetpu_app_service@1.0-service
+-system_ext/bin/hw/vendor.google.edgetpu_app_service@1.0-service
 system_ext/etc/init/vendor.google.edgetpu_app_service@1.0-service.rc
 -system_ext/etc/vintf/manifest/vendor.google.edgetpu_app_service@1.0-service.xml
-system_ext/lib64/com.google.edgetpu_app_service-V1-ndk_platform.so
-system_ext/lib64/com.google.edgetpu_vendor_service-V1-ndk_platform.so
-vendor/bin/hw/android.hardware.edgetpu.logging@service-edgetpu-logging
-vendor/bin/hw/android.hardware.neuralnetworks@service-darwinn-aidl
-vendor/bin/hw/vendor.google.edgetpu_vendor_service@1.0-service
+-system_ext/lib64/com.google.edgetpu_app_service-V1-ndk_platform.so
+-system_ext/lib64/com.google.edgetpu_vendor_service-V1-ndk_platform.so
+-vendor/bin/hw/android.hardware.edgetpu.logging@service-edgetpu-logging
+-vendor/bin/hw/android.hardware.neuralnetworks@service-darwinn-aidl
+-vendor/bin/hw/vendor.google.edgetpu_vendor_service@1.0-service
 vendor/etc/public.libraries.txt
 vendor/etc/init/android.hardware.edgetpu.logging@service-edgetpu-logging.rc
 vendor/etc/init/android.hardware.neuralnetworks@service-darwinn-aidl.rc
@@ -954,21 +954,21 @@ vendor/etc/init/vendor.google.edgetpu_vendor_service@1.0-service.rc
 -vendor/etc/vintf/manifest/android.hardware.neuralnetworks@service-darwinn-aidl.xml
 -vendor/etc/vintf/manifest/vendor.google.edgetpu_vendor_service@1.0-service.xml
 vendor/firmware/google/edgetpu-abrolhos.fw
-vendor/lib/libedgetpu_client.google.so
-vendor/lib/libedgetpu_util.so
-vendor/lib/libmetrics_logger.so
-vendor/lib64/com.google.edgetpu_app_service-V1-ndk_platform.so
-vendor/lib64/com.google.edgetpu_vendor_service-V1-ndk_platform.so
-vendor/lib64/lib_reader.so
-vendor/lib64/libdarwinn_hal.so
-vendor/lib64/libedgetpu_client.google.so
-vendor/lib64/libedgetpu_tflite_compiler.so
-vendor/lib64/libedgetpu_util.so
-vendor/lib64/libmetrics_logger.so
+-vendor/lib/libedgetpu_client.google.so
+-vendor/lib/libedgetpu_util.so
+-vendor/lib/libmetrics_logger.so
+-vendor/lib64/com.google.edgetpu_app_service-V1-ndk_platform.so
+-vendor/lib64/com.google.edgetpu_vendor_service-V1-ndk_platform.so
+-vendor/lib64/lib_reader.so
+-vendor/lib64/libdarwinn_hal.so
+-vendor/lib64/libedgetpu_client.google.so
+-vendor/lib64/libedgetpu_tflite_compiler.so
+-vendor/lib64/libedgetpu_util.so
+-vendor/lib64/libmetrics_logger.so
 
 # Google HBM Service
 -system_ext/priv-app/HbmSVManager/HbmSVManager.apk
-system_ext/lib64/libhbmsvmanager_jni.so
+-system_ext/lib64/libhbmsvmanager_jni.so
 # symlink to system_ext/priv-app/HbmSVManager/lib/arm64/libhbmsvmanager_jni.so
 
 # Google Music Detector
@@ -977,13 +977,13 @@ product/etc/firmware/music_detector.sound_model
 product/etc/firmware/music_detector.sound_model_2
 
 # Google Radio Extensions
-vendor/bin/hw/vendor.google.radioext@1.0-service
+-vendor/bin/hw/vendor.google.radioext@1.0-service
 vendor/etc/init/vendor.google.radioext@1.0-service.rc
 -vendor/etc/vintf/manifest/manifest_radioext.xml
-vendor/lib64/vendor.google.radioext@1.0.so
-vendor/lib64/vendor.google.radioext@1.1.so
-vendor/lib64/vendor.google.radioext@1.2.so
-vendor/lib64/vendor.google.radioext@1.3.so
+-vendor/lib64/vendor.google.radioext@1.0.so
+-vendor/lib64/vendor.google.radioext@1.1.so
+-vendor/lib64/vendor.google.radioext@1.2.so
+-vendor/lib64/vendor.google.radioext@1.3.so
 
 # Google Telephony
 -product/app/Tycho/Tycho.apk;PRESIGNED
@@ -996,8 +996,8 @@ product/etc/permissions/com.google.omadm.trigger.xml
 product/etc/permissions/com.verizon.apn.xml
 product/etc/permissions/com.verizon.services.xml
 product/etc/permissions/features-verizon.xml
-product/lib/libdmengine.so
-product/lib/libdmjavaplugin.so
+-product/lib/libdmengine.so
+-product/lib/libdmjavaplugin.so
 -product/priv-app/CarrierLocation/CarrierLocation.apk;PRESIGNED
 #-product/priv-app/CarrierServices/CarrierServices.apk;PRESIGNED
 -product/priv-app/CarrierSettings/CarrierSettings.apk;PRESIGNED
@@ -1024,36 +1024,36 @@ system_ext/priv-app/EuiccSupportPixel/esim-full-v1.img
 -system_ext/priv-app/grilservice/grilservice.apk
 -system_ext/priv-app/LLKAgent/LLKAgent.apk
 -system_ext/priv-app/MyVerizonServices/MyVerizonServices.apk
-vendor/bin/bipchmgr
-vendor/bin/modem_svc_sit
+-vendor/bin/bipchmgr
+-vendor/bin/modem_svc_sit
 vendor/etc/init/bipchmgr.rc
 vendor/etc/init/vendor.google.modem_svc_sit.rc
-vendor/lib/libgooglerilaudio.so
-vendor/lib/libril_gfeature.so
-vendor/lib64/libgooglerilaudio.so
-vendor/lib64/libgril_oem-google.so
-vendor/lib64/libmodem_svc_proto.so
-vendor/lib64/libril_gfeature.so
-vendor/lib64/libsit_oem.so
-vendor/lib64/libsit_oem_proto.so
+-vendor/lib/libgooglerilaudio.so
+-vendor/lib/libril_gfeature.so
+-vendor/lib64/libgooglerilaudio.so
+-vendor/lib64/libgril_oem-google.so
+-vendor/lib64/libmodem_svc_proto.so
+-vendor/lib64/libril_gfeature.so
+-vendor/lib64/libsit_oem.so
+-vendor/lib64/libsit_oem_proto.so
 
 # Google Wifi Ext
-vendor/bin/hw/vendor.google.wifi_ext@1.0-service-vendor
+-vendor/bin/hw/vendor.google.wifi_ext@1.0-service-vendor
 vendor/etc/init/vendor.google.wifi_ext@1.0-service.rc
 -vendor/etc/vintf/manifest/manifest_wifi_ext.xml
 vendor/firmware/google_wifi_firmware_config_info.pb
-vendor/lib64/google_wifi_firmware_config_info_cc_proto.so
-vendor/lib64/google_wifi_firmware_config_version_c_wrapper.so
-vendor/lib64/vendor.google.wifi_ext@1.0.so
-vendor/lib64/vendor.google.wifi_ext@1.1.so
-vendor/lib64/vendor.google.wifi_ext@1.2.so
+-vendor/lib64/google_wifi_firmware_config_info_cc_proto.so
+-vendor/lib64/google_wifi_firmware_config_version_c_wrapper.so
+-vendor/lib64/vendor.google.wifi_ext@1.0.so
+-vendor/lib64/vendor.google.wifi_ext@1.1.so
+-vendor/lib64/vendor.google.wifi_ext@1.2.so
 
 # Google Wireless Charger
-vendor/bin/hw/vendor.google.wireless_charger@1.3-service-vendor
+-vendor/bin/hw/vendor.google.wireless_charger@1.3-service-vendor
 vendor/etc/init/vendor.google.wireless_charger@1.3-service.rc
 -vendor/etc/vintf/manifest/vendor.google.wireless_charger@1.3-service-vendor.xml
-vendor/lib64/librtxproto.so
-vendor/lib64/libwlcproto_13.so
+-vendor/lib64/librtxproto.so
+-vendor/lib64/libwlcproto_13.so
 
 # Hotword
 -product/priv-app/HotwordEnrollmentOKGoogleFUSION/HotwordEnrollmentOKGoogleFUSION.apk
@@ -1062,80 +1062,80 @@ system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml
 -system_ext/framework/com.android.hotwordenrollment.common.util.jar
 
 # Input Classifier
-vendor/bin/hw/android.hardware.input.classifier@1.0-service
+-vendor/bin/hw/android.hardware.input.classifier@1.0-service
 vendor/etc/input_classifier_model.pb
 vendor/etc/init/android.hardware.input.classifier@1.0-service.rc
 -vendor/etc/vintf/manifest/manifest_input.classifier-service.xml
-vendor/lib64/com.google.input-V1-ndk_platform.so
-vendor/lib64/libdeeptouch.so
+-vendor/lib64/com.google.input-V1-ndk_platform.so
+-vendor/lib64/libdeeptouch.so
 
 # MCPS
 vendor/usr/share/mcps_tools/mcps_tools_config.json
 
 # Media
-vendor/bin/hw/google.hardware.media.c2@1.0-service
-vendor/bin/hw/samsung.hardware.media.c2@1.0-service
+-vendor/bin/hw/google.hardware.media.c2@1.0-service
+-vendor/bin/hw/samsung.hardware.media.c2@1.0-service
 vendor/etc/init/google.hardware.media.c2@1.0-service.rc
 vendor/etc/init/samsung.hardware.media.c2@1.0-service.rc
 vendor/etc/seccomp_policy/codec2.vendor.base.policy
 vendor/etc/seccomp_policy/codec2.vendor.ext.policy
-vendor/lib/libbo_av1.so
-vendor/lib/libgc2_av1_dec.so
-vendor/lib/libgc2_base.so
-vendor/lib/libgc2_cwl.so
-vendor/lib/libgc2_log.so
-vendor/lib/libgc2_store.so
-vendor/lib/libgc2_utils.so
-vendor/lib/libExynosC2ComponentStore.so
-vendor/lib/libExynosC2H263Dec.so
-vendor/lib/libExynosC2H263Enc.so
-vendor/lib/libExynosC2H264Dec.so
-vendor/lib/libExynosC2H264Enc.so
-vendor/lib/libExynosC2HevcDec.so
-vendor/lib/libExynosC2HevcEnc.so
-vendor/lib/libExynosC2Mpeg4Dec.so
-vendor/lib/libExynosC2Mpeg4Enc.so
-vendor/lib/libExynosC2Vp8Dec.so
-vendor/lib/libExynosC2Vp8Enc.so
-vendor/lib/libExynosC2Vp9Dec.so
-vendor/lib/libExynosC2Vp9Enc.so
-vendor/lib64/libbo_av1.so
-vendor/lib64/libgc2_av1_dec.so
-vendor/lib64/libgc2_base.so
-vendor/lib64/libgc2_cwl.so
-vendor/lib64/libgc2_log.so
-vendor/lib64/libgc2_store.so
-vendor/lib64/libgc2_utils.so
-vendor/lib64/libExynosC2ComponentStore.so
-vendor/lib64/libExynosC2H263Dec.so
-vendor/lib64/libExynosC2H263Enc.so
-vendor/lib64/libExynosC2H264Dec.so
-vendor/lib64/libExynosC2H264Enc.so
-vendor/lib64/libExynosC2HevcDec.so
-vendor/lib64/libExynosC2HevcEnc.so
-vendor/lib64/libExynosC2Mpeg4Dec.so
-vendor/lib64/libExynosC2Mpeg4Enc.so
-vendor/lib64/libExynosC2Vp8Dec.so
-vendor/lib64/libExynosC2Vp8Enc.so
-vendor/lib64/libExynosC2Vp9Dec.so
-vendor/lib64/libExynosC2Vp9Enc.so
+-vendor/lib/libbo_av1.so
+-vendor/lib/libgc2_av1_dec.so
+-vendor/lib/libgc2_base.so
+-vendor/lib/libgc2_cwl.so
+-vendor/lib/libgc2_log.so
+-vendor/lib/libgc2_store.so
+-vendor/lib/libgc2_utils.so
+-vendor/lib/libExynosC2ComponentStore.so
+-vendor/lib/libExynosC2H263Dec.so
+-vendor/lib/libExynosC2H263Enc.so
+-vendor/lib/libExynosC2H264Dec.so
+-vendor/lib/libExynosC2H264Enc.so
+-vendor/lib/libExynosC2HevcDec.so
+-vendor/lib/libExynosC2HevcEnc.so
+-vendor/lib/libExynosC2Mpeg4Dec.so
+-vendor/lib/libExynosC2Mpeg4Enc.so
+-vendor/lib/libExynosC2Vp8Dec.so
+-vendor/lib/libExynosC2Vp8Enc.so
+-vendor/lib/libExynosC2Vp9Dec.so
+-vendor/lib/libExynosC2Vp9Enc.so
+-vendor/lib64/libbo_av1.so
+-vendor/lib64/libgc2_av1_dec.so
+-vendor/lib64/libgc2_base.so
+-vendor/lib64/libgc2_cwl.so
+-vendor/lib64/libgc2_log.so
+-vendor/lib64/libgc2_store.so
+-vendor/lib64/libgc2_utils.so
+-vendor/lib64/libExynosC2ComponentStore.so
+-vendor/lib64/libExynosC2H263Dec.so
+-vendor/lib64/libExynosC2H263Enc.so
+-vendor/lib64/libExynosC2H264Dec.so
+-vendor/lib64/libExynosC2H264Enc.so
+-vendor/lib64/libExynosC2HevcDec.so
+-vendor/lib64/libExynosC2HevcEnc.so
+-vendor/lib64/libExynosC2Mpeg4Dec.so
+-vendor/lib64/libExynosC2Mpeg4Enc.so
+-vendor/lib64/libExynosC2Vp8Dec.so
+-vendor/lib64/libExynosC2Vp8Enc.so
+-vendor/lib64/libExynosC2Vp9Dec.so
+-vendor/lib64/libExynosC2Vp9Enc.so
 vendor/media/LMspeed_508.emd
 vendor/media/PFFprec_600.emd
 
 # NFC
 -system_ext/priv-app/PixelNfc/PixelNfc.apk
-vendor/bin/hw/android.hardware.secure_element@1.2-uicc-service
+-vendor/bin/hw/android.hardware.secure_element@1.2-uicc-service
 vendor/etc/init/android.hardware.secure_element@1.2-uicc-service.rc
 vendor/firmware/st54j_conf.bin
 vendor/firmware/st54j_fw.bin
-vendor/lib/libstreset21.so
-vendor/lib64/libstreset21.so
+-vendor/lib/libstreset21.so
+-vendor/lib64/libstreset21.so
 
 # Qorvo UWB HAL
 system_ext/etc/permissions/privapp-permissions-qorvo.xml
 -system_ext/framework/hardware.qorvo.uwb-V1-java.jar
 -system_ext/priv-app/UwbService/UwbService.apk;PRESIGNED
-vendor/bin/hw/hardware.qorvo.uwb-service
+-vendor/bin/hw/hardware.qorvo.uwb-service
 vendor/bin/init.uwb.calib.sh
 vendor/etc/calib_paths
 vendor/etc/init/uwb-default.rc
@@ -1161,9 +1161,9 @@ vendor/etc/UWB-calibration-ua.conf
 vendor/etc/UWB-calibration-unknown.conf
 vendor/etc/UWB-calibration-uz.conf
 -vendor/etc/vintf/manifest/uwb-default.xml
-vendor/lib/libqorvo_uwb_params_nfcc.so
-vendor/lib64/hardware.qorvo.uwb-V1-ndk_platform.so
-vendor/lib64/libqorvo_uwb_params_nfcc.so
+-vendor/lib/libqorvo_uwb_params_nfcc.so
+-vendor/lib64/hardware.qorvo.uwb-V1-ndk_platform.so
+-vendor/lib64/libqorvo_uwb_params_nfcc.so
 
 # Pixel Camera
 -product/app/PixelCameraServicesRaven/PixelCameraServicesRaven.apk;PRESIGNED
@@ -1184,8 +1184,8 @@ vendor/etc/permissions/com.google.android.camera.experimental2021.xml
 vendor/etc/permissions/vendor.android.hardware.camera.preview-dis.xml
 -vendor/etc/vintf/manifest/android.hardware.camera.provider@2.7-service-google-apex.xml
 -vendor/framework/com.google.android.camera.experimental2021.jar
-vendor/lib/lib_aion_buffer.so
-vendor/lib64/lib_aion_buffer.so
+-vendor/lib/lib_aion_buffer.so
+-vendor/lib64/lib_aion_buffer.so
 
 # Pixel Experience Configs
 product/etc/sysconfig/dreamliner.xml
@@ -1209,22 +1209,22 @@ system_ext/framework/RadioConfigLib.jar
 system_ext/etc/permissions/com.android.omadm.radioconfig.xml
 system_ext/etc/permissions/com.samsung.slsi.telephony.oemril.xml
 system_ext/etc/permissions/oemrilhook.xml
-system_ext/lib/libmediaadaptor.so
-system_ext/lib/vendor.samsung_slsi.telephony.hardware.oemservice@1.0.so
-system_ext/lib/vendor.samsung_slsi.telephony.hardware.radioExternal@1.0.so
-system_ext/lib64/libmediaadaptor.so
-system_ext/lib64/vendor.samsung_slsi.telephony.hardware.oemservice@1.0.so
-system_ext/lib64/vendor.samsung_slsi.telephony.hardware.radioExternal@1.0.so
+-system_ext/lib/libmediaadaptor.so
+-system_ext/lib/vendor.samsung_slsi.telephony.hardware.oemservice@1.0.so
+-system_ext/lib/vendor.samsung_slsi.telephony.hardware.radioExternal@1.0.so
+-system_ext/lib64/libmediaadaptor.so
+-system_ext/lib64/vendor.samsung_slsi.telephony.hardware.oemservice@1.0.so
+-system_ext/lib64/vendor.samsung_slsi.telephony.hardware.radioExternal@1.0.so
 -system_ext/priv-app/OemRilService/OemRilService.apk
 -system_ext/priv-app/RilConfigService/RilConfigService.apk
-vendor/bin/cbd
+-vendor/bin/cbd
 vendor/bin/init.radio.sh
-vendor/bin/modem_logging_control
-vendor/bin/rfsd
-vendor/bin/sscoredump
-vendor/bin/wfc-pkt-router
-vendor/bin/hw/rild_exynos
-vendor/bin/hw/vendor.samsung_slsi.hardware.tetheroffload@1.1-service
+-vendor/bin/modem_logging_control
+-vendor/bin/rfsd
+-vendor/bin/sscoredump
+-vendor/bin/wfc-pkt-router
+-vendor/bin/hw/rild_exynos
+-vendor/bin/hw/vendor.samsung_slsi.hardware.tetheroffload@1.1-service
 vendor/etc/open_carrier_info.dat
 vendor/etc/init/cbd.rc
 vendor/etc/init/init.modem_logging_control.rc
@@ -1235,37 +1235,37 @@ vendor/etc/init/rfsd.rc
 vendor/etc/init/rild_exynos.rc
 vendor/etc/init/vendor.samsung_slsi.hardware.tetheroffload@1.1-service.rc
 -vendor/etc/vintf/manifest/vendor.samsung_slsi.hardware.tetheroffload@1.1-service.xml
-vendor/lib/libril_sitril.so
-vendor/lib/libsitpower_anomaly_data.so
-vendor/lib/libsitril-audio.so
-vendor/lib/libsitril-client.so
-vendor/lib/libsitril-gps.so
-vendor/lib/libsitril-ims.so
-vendor/lib/libsitril-psensor.so
-vendor/lib/libsitril-sar.so
-vendor/lib/libsitril-se.so
-vendor/lib/libsitril-wlan.so
-vendor/lib/libsitril.so
-vendor/lib/vendor.samsung_slsi.telephony.hardware.oemservice@1.0.so
-vendor/lib/vendor.samsung_slsi.telephony.hardware.radioExternal@1.0.so
-vendor/lib/vendor.samsung_slsi.telephony.hardware.radioExternal@1.1.so
-vendor/lib64/libril_sitril.so
-vendor/lib64/libsitpower_anomaly_data.so
-vendor/lib64/libsitril-audio.so
-vendor/lib64/libsitril-client.so
-vendor/lib64/libsitril-gps.so
-vendor/lib64/libsitril-ims.so
-vendor/lib64/libsitril-psensor.so
-vendor/lib64/libsitril-sar.so
-vendor/lib64/libsitril-se.so
-vendor/lib64/libsitril-wlan.so
-vendor/lib64/libsitril.so
-vendor/lib64/vendor.samsung_slsi.telephony.hardware.oemservice@1.0.so
-vendor/lib64/vendor.samsung_slsi.telephony.hardware.radioExternal@1.0.so
-vendor/lib64/vendor.samsung_slsi.telephony.hardware.radioExternal@1.1.so
+-vendor/lib/libril_sitril.so
+-vendor/lib/libsitpower_anomaly_data.so
+-vendor/lib/libsitril-audio.so
+-vendor/lib/libsitril-client.so
+-vendor/lib/libsitril-gps.so
+-vendor/lib/libsitril-ims.so
+-vendor/lib/libsitril-psensor.so
+-vendor/lib/libsitril-sar.so
+-vendor/lib/libsitril-se.so
+-vendor/lib/libsitril-wlan.so
+-vendor/lib/libsitril.so
+-vendor/lib/vendor.samsung_slsi.telephony.hardware.oemservice@1.0.so
+-vendor/lib/vendor.samsung_slsi.telephony.hardware.radioExternal@1.0.so
+-vendor/lib/vendor.samsung_slsi.telephony.hardware.radioExternal@1.1.so
+-vendor/lib64/libril_sitril.so
+-vendor/lib64/libsitpower_anomaly_data.so
+-vendor/lib64/libsitril-audio.so
+-vendor/lib64/libsitril-client.so
+-vendor/lib64/libsitril-gps.so
+-vendor/lib64/libsitril-ims.so
+-vendor/lib64/libsitril-psensor.so
+-vendor/lib64/libsitril-sar.so
+-vendor/lib64/libsitril-se.so
+-vendor/lib64/libsitril-wlan.so
+-vendor/lib64/libsitril.so
+-vendor/lib64/vendor.samsung_slsi.telephony.hardware.oemservice@1.0.so
+-vendor/lib64/vendor.samsung_slsi.telephony.hardware.radioExternal@1.0.so
+-vendor/lib64/vendor.samsung_slsi.telephony.hardware.radioExternal@1.1.so
 
 # Samsung Tetheroffload
-vendor/bin/hw/vendor.samsung_slsi.hardware.tetheroffload@1.1-service
+-vendor/bin/hw/vendor.samsung_slsi.hardware.tetheroffload@1.1-service
 vendor/etc/init/vendor.samsung_slsi.hardware.tetheroffload@1.1-service.rc
 -vendor/etc/vintf/manifest/vendor.samsung_slsi.hardware.tetheroffload@1.1-service.xml
 
@@ -1279,7 +1279,7 @@ system_ext/etc/permissions/com.shannon.rcsservice.xml
 -system_ext/priv-app/ShannonRcs/ShannonRcs.apk
 
 # Sensors
-vendor/bin/usf_stats
+-vendor/bin/usf_stats
 vendor/etc/init/init.usf.rc
 vendor/etc/sensors/device_cal_info
 vendor/etc/sensors/hals.conf
@@ -1288,32 +1288,32 @@ vendor/etc/sensors/registry/raven_evt.reg
 vendor/etc/sensors/registry/raven_evt_win.reg
 vendor/etc/sensors/registry/raven_pro_1_0.reg
 vendor/etc/sensors/registry/raven_pro_1_1.reg
-vendor/lib/libsensorsuez.so
-vendor/lib/libsueznanoappclients.so
-vendor/lib/libusf.so
-vendor/lib/sensors.usf.so
-vendor/lib/vendor-pixelatoms-cpp.so
-vendor/lib64/libsensorsuez.so
-vendor/lib64/libsueznanoappclients.so
-vendor/lib64/libusf.so
-vendor/lib64/sensors.usf.so
-vendor/lib64/vendor-pixelatoms-cpp.so
+-vendor/lib/libsensorsuez.so
+-vendor/lib/libsueznanoappclients.so
+-vendor/lib/libusf.so
+-vendor/lib/sensors.usf.so
+-vendor/lib/vendor-pixelatoms-cpp.so
+-vendor/lib64/libsensorsuez.so
+-vendor/lib64/libsueznanoappclients.so
+-vendor/lib64/libusf.so
+-vendor/lib64/sensors.usf.so
+-vendor/lib64/vendor-pixelatoms-cpp.so
 
 # Soundfx
-vendor/lib/soundfx/liboffloadeffect.so
-vendor/lib64/soundfx/liboffloadeffect.so
+-vendor/lib/soundfx/liboffloadeffect.so
+-vendor/lib64/soundfx/liboffloadeffect.so
 
 # Touch
-vendor/bin/twoshay
+-vendor/bin/twoshay
 vendor/etc/touchflow.pb
 vendor/etc/init/twoshay.rc
 vendor/firmware/s6sy79x.bin
-vendor/lib64/libtouchflow.so
+-vendor/lib64/libtouchflow.so
 
 # Trusty ConfirmationUI
-vendor/bin/securedpud.slider
-vendor/bin/trusty_metricsd
-vendor/bin/hw/android.hardware.confirmationui@1.0-service.trusty.vendor
+-vendor/bin/securedpud.slider
+-vendor/bin/trusty_metricsd
+-vendor/bin/hw/android.hardware.confirmationui@1.0-service.trusty.vendor
 vendor/etc/init/android.hardware.confirmationui@1.0-service.trusty.vendor.rc
 vendor/etc/init/securedpud.slider.rc
 vendor/etc/init/trusty_metricsd.rc
