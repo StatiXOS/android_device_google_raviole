@@ -16,6 +16,24 @@
       "message": "why?",
       "revId": "0a10ac75d59935eee3c25a4cc773ad22f40ae46c",
       "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "37a6acda_4cf13450",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2022-02-25T16:32:43Z",
+      "side": 1,
+      "message": "why not? And the existence of this patch here doesn\u0027t mean it\u0027ll be merged 😛",
+      "parentUuid": "162c6b0e_b958d836",
+      "revId": "0a10ac75d59935eee3c25a4cc773ad22f40ae46c",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
     }
   ]
 }
