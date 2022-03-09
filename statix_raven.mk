@@ -7,7 +7,7 @@ $(call inherit-product, vendor/statix/config/common.mk)
 $(call inherit-product, vendor/statix/config/gsm.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/google/raviole/aosp_raven.mk)
+$(call inherit-product, device/google/raviole/aosp_raven_64.mk)
 $(call inherit-product, device/google/raviole/device-statix.mk)
 
 ## Device identifier. This must come after all inclusions
@@ -20,8 +20,8 @@ PRODUCT_VENDOR_PROPERTIES += \
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=raven \
-    PRIVATE_BUILD_DESC="raven-user 12 SQ1D.220205.004 8151327 release-keys"
+    PRIVATE_BUILD_DESC="raven-user 12 SP2A.220305.013.A3 8229987 release-keys"
 
-BUILD_FINGERPRINT := google/raven/raven:12/SQ1D.220205.004/8151327:user/release-keys
+BUILD_FINGERPRINT := google/raven/raven:12/SP2A.220305.013.A3/8229987:user/release-keys
 
 $(call inherit-product, vendor/google/raven/raven-vendor.mk)
