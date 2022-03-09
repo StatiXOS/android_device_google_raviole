@@ -7,7 +7,7 @@ $(call inherit-product, vendor/statix/config/common.mk)
 $(call inherit-product, vendor/statix/config/gsm.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/google/raviole/aosp_oriole.mk)
+$(call inherit-product, device/google/raviole/aosp_oriole_64.mk)
 $(call inherit-product, device/google/raviole/device-statix.mk)
 
 ## Device identifier. This must come after all inclusions
@@ -17,8 +17,8 @@ PRODUCT_BRAND := google
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=oriole \
-    PRIVATE_BUILD_DESC="oriole-user 12 SQ1D.220205.004 8151327 release-keys"
+    PRIVATE_BUILD_DESC="oriole-user 12 S3B1.220218.004 8242181 release-keys"
 
-BUILD_FINGERPRINT := google/oriole/oriole:12/SQ1D.220205.004/8151327:user/release-keys
+BUILD_FINGERPRINT := google/oriole/oriole:12/S3B1.220218.004/8242181:user/release-keys
 
 $(call inherit-product, vendor/google/oriole/oriole-vendor.mk)
