@@ -125,9 +125,15 @@ vendor/etc/modem/default.cfg
 vendor/etc/modem/default_metrics.xml
 vendor/etc/modem/default_NAS_RRC.cfg
 vendor/etc/modem/default_NAS_RRC.nprf
+vendor/etc/modem/Pixel_Default.nprf
+vendor/etc/modem/Pixel_Default.cfg
 vendor/etc/modem/default.nprf
+vendor/etc/modem/default_network.nprf
 vendor/etc/modem/default_stability.cfg
 vendor/etc/modem/default_stability.nprf
+vendor/etc/modem/Pixel_stability.cfg
+vendor/etc/modem/Pixel_stability.nprf
+vendor/etc/modem/Pixel_Default_metrics.xml
 vendor/etc/modem/logging.conf
 vendor/etc/modem_stat.conf
 vendor/etc/modem/teamfood_default.cfg
@@ -1135,9 +1141,11 @@ vendor/firmware/st54j_fw.bin
 system_ext/etc/permissions/privapp-permissions-qorvo.xml
 -system_ext/framework/hardware.qorvo.uwb-V1-java.jar
 -system_ext/priv-app/UwbService/UwbService.apk;PRESIGNED
+-vendor/bin/uci_daemon
 -vendor/bin/hw/hardware.qorvo.uwb-service
 vendor/bin/init.uwb.calib.sh
 vendor/etc/calib_paths
+vendor/etc/init/usb-cdc.rc
 vendor/etc/init/uwb-default.rc
 vendor/etc/UWB-calibration-am.conf
 vendor/etc/UWB-calibration-ar.conf
@@ -1306,6 +1314,7 @@ vendor/etc/sensors/registry/raven_pro_1_1.reg
 # Touch
 -vendor/bin/twoshay
 vendor/etc/touchflow.pb
+vendor/etc/twoshay_config.json
 vendor/etc/init/twoshay.rc
 vendor/firmware/s6sy79x.bin
 -vendor/lib64/libtouchflow.so
@@ -1331,6 +1340,7 @@ vendor/firmware/cs40l25a_par.wmfw
 vendor/firmware/cs40l26.bin
 vendor/firmware/cs40l26-svc.bin
 vendor/firmware/cs40l26.wmfw
+vendor/firmware/cs40l26-calib.wmfw
 
 # WLAN firmware
 vendor/firmware/bcmdhd.cal
