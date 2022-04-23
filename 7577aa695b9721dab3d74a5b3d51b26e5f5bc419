@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "77478e69_7d6ca3a8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-04-23T06:15:52Z",
+      "side": 1,
+      "message": "gotta fix authorship when lineage gerrit comes back up\n",
+      "revId": "7577aa695b9721dab3d74a5b3d51b26e5f5bc419",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    }
+  ]
+}
