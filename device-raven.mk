@@ -167,6 +167,10 @@ PRODUCT_COPY_FILES += \
 	device/google/raviole/tts/es-es/es-es-x-multi-r27.zvoice:product/tts/google/es-es/es-es-x-multi-r27.zvoice\
 	device/google/raviole/tts/es-es/es-es-x-multi-wavernn-r27.zvoice:product/tts/google/es-es/es-es-x-multi-wavernn-r27.zvoice
 
+# Display configuration
+PRODUCT_COPY_FILES += \
+    device/google/raviole/raven/displayconfig/display_id_4619827677550801152.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4619827677550801152.xml
+
 # Display LBE
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += vendor.display.lbe.supported=1
 
