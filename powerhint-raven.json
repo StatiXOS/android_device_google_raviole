@@ -15,6 +15,7 @@
       "Path": "/sys/devices/platform/17000020.devfreq_int/devfreq/17000020.devfreq_int/min_freq",
       "Values": [
         "533000",
+        "332000",
         "100000"
       ],
       "ResetOnInit": true
@@ -409,6 +410,18 @@
       "Node": "SFUClampBoost",
       "Duration": 5000,
       "Value": "65"
+    },
+    {
+      "PowerHint":"INTERACTION",
+      "Node":"MemFreq",
+      "Duration":5000,
+      "Value":"1014000"
+    },
+    {
+    "PowerHint":"INTERACTION",
+      "Node":"IntFreq",
+      "Duration":5000,
+      "Value":"332000"
     },
     {
       "PowerHint": "DEVICE_IDLE",
