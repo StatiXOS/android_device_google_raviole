@@ -76,4 +76,5 @@ PRODUCT_PACKAGES += \
 $(call inherit-product-if-exists, vendor/google/pixelparts/pixelparts.mk)
 
 # Properties
+TARGET_PRODUCT_PROP := device/google/raviole/product.prop
 TARGET_VENDOR_PROP := device/google/raviole/vendor.prop
